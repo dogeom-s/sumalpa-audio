@@ -1,0 +1,1 @@
+{"version": 2, "name": "sumalpa-audio", "builds": [], "routes": [{"src": "/(.*)", "dest": "/\\1"}]}
